@@ -10,6 +10,8 @@ Must have Node.js installed on the Raspberry Pi. To install Node follow this [li
 	npm install
 	npm start
 ```	
+
+Add your Youtube API key in the file `public/js/remote.js`
 ###Todo
 
 + ~~Change repo name to PiRtv~~ 
